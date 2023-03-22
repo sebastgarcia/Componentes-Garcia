@@ -1,0 +1,17 @@
+:host {
+    background-color: rgb(48, 30, 128);
+    width: var(--sidebar-width);
+    height: calc(100vh - var(--toolbar-height));
+    position: fixed;
+    padding: 25px;
+    font-size: 30px;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+
+    li{
+        text-decoration: none;
+    }
+    
+
+}
